@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;   
+    overflow-x: hidden;   
+    font-size: 18px;
+    font-family: sans-serif;      
+}
+
+:root {
+    --color-primary: #ff7779;
+  }
+  
+
+
+button{
+    background: transparent;
+    cursor: pointer; 
+    border: none;
+    padding: 20px;     
+
+    color: inherit;   
+    width: 200px;
+    height: 41px;         
+    overflow-y: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+    border-radius: 5px;            
+}
+
+
+h1{   
+    font-size: 30px; 
+}
+
+
